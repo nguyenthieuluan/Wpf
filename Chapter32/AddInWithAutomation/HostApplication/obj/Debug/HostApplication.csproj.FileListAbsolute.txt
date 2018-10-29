@@ -1,0 +1,15 @@
+D:\Code\Pro WPF\Chapter32\AddInWithAutomation\Output\HostApplication.exe.config
+C:\Users\trang\OneDrive\Máy tính\wpf\pro-wpf-4.5-in-csharp\Pro WPF 4.5 in C#\Chapter32\AddInWithAutomation\Output\HostApplication.exe.config
+C:\Users\trang\OneDrive\Máy tính\wpf\pro-wpf-4.5-in-csharp\Pro WPF 4.5 in C#\Chapter32\AddInWithAutomation\Output\HostApplication.exe
+C:\Users\trang\OneDrive\Máy tính\wpf\pro-wpf-4.5-in-csharp\Pro WPF 4.5 in C#\Chapter32\AddInWithAutomation\Output\HostApplication.pdb
+C:\Users\trang\OneDrive\Máy tính\wpf\pro-wpf-4.5-in-csharp\Pro WPF 4.5 in C#\Chapter32\AddInWithAutomation\HostApplication\obj\Debug\HostApplication.csprojResolveAssemblyReference.cache
+C:\Users\trang\OneDrive\Máy tính\wpf\pro-wpf-4.5-in-csharp\Pro WPF 4.5 in C#\Chapter32\AddInWithAutomation\HostApplication\obj\Debug\Window1.baml
+C:\Users\trang\OneDrive\Máy tính\wpf\pro-wpf-4.5-in-csharp\Pro WPF 4.5 in C#\Chapter32\AddInWithAutomation\HostApplication\obj\Debug\Window1.g.cs
+C:\Users\trang\OneDrive\Máy tính\wpf\pro-wpf-4.5-in-csharp\Pro WPF 4.5 in C#\Chapter32\AddInWithAutomation\HostApplication\obj\Debug\App.g.cs
+C:\Users\trang\OneDrive\Máy tính\wpf\pro-wpf-4.5-in-csharp\Pro WPF 4.5 in C#\Chapter32\AddInWithAutomation\HostApplication\obj\Debug\HostApplication_MarkupCompile.cache
+C:\Users\trang\OneDrive\Máy tính\wpf\pro-wpf-4.5-in-csharp\Pro WPF 4.5 in C#\Chapter32\AddInWithAutomation\HostApplication\obj\Debug\HostApplication.g.resources
+C:\Users\trang\OneDrive\Máy tính\wpf\pro-wpf-4.5-in-csharp\Pro WPF 4.5 in C#\Chapter32\AddInWithAutomation\HostApplication\obj\Debug\HostApplication.Properties.Resources.resources
+C:\Users\trang\OneDrive\Máy tính\wpf\pro-wpf-4.5-in-csharp\Pro WPF 4.5 in C#\Chapter32\AddInWithAutomation\HostApplication\obj\Debug\HostApplication.csproj.GenerateResource.cache
+C:\Users\trang\OneDrive\Máy tính\wpf\pro-wpf-4.5-in-csharp\Pro WPF 4.5 in C#\Chapter32\AddInWithAutomation\HostApplication\obj\Debug\HostApplication.csproj.CoreCompileInputs.cache
+C:\Users\trang\OneDrive\Máy tính\wpf\pro-wpf-4.5-in-csharp\Pro WPF 4.5 in C#\Chapter32\AddInWithAutomation\HostApplication\obj\Debug\HostApplication.exe
+C:\Users\trang\OneDrive\Máy tính\wpf\pro-wpf-4.5-in-csharp\Pro WPF 4.5 in C#\Chapter32\AddInWithAutomation\HostApplication\obj\Debug\HostApplication.pdb

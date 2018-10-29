@@ -1,0 +1,5 @@
+C:\Users\trang\OneDrive\Máy tính\wpf\pro-wpf-4.5-in-csharp\Pro WPF 4.5 in C#\Chapter32\AddInWithAutomation\Output\HostView.dll
+C:\Users\trang\OneDrive\Máy tính\wpf\pro-wpf-4.5-in-csharp\Pro WPF 4.5 in C#\Chapter32\AddInWithAutomation\Output\HostView.pdb
+C:\Users\trang\OneDrive\Máy tính\wpf\pro-wpf-4.5-in-csharp\Pro WPF 4.5 in C#\Chapter32\AddInWithAutomation\HostView\obj\Debug\HostView.csproj.CoreCompileInputs.cache
+C:\Users\trang\OneDrive\Máy tính\wpf\pro-wpf-4.5-in-csharp\Pro WPF 4.5 in C#\Chapter32\AddInWithAutomation\HostView\obj\Debug\HostView.dll
+C:\Users\trang\OneDrive\Máy tính\wpf\pro-wpf-4.5-in-csharp\Pro WPF 4.5 in C#\Chapter32\AddInWithAutomation\HostView\obj\Debug\HostView.pdb

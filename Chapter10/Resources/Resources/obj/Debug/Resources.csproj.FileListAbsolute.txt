@@ -1,0 +1,26 @@
+D:\Code\Pro WPF\Chapter10\Resources\Resources\bin\Debug\Resources.exe.config
+C:\Users\trang\OneDrive\Máy tính\wpf\pro-wpf-4.5-in-csharp\Pro WPF 4.5 in C#\Chapter10\Resources\Resources\bin\Debug\Resources.exe.config
+C:\Users\trang\OneDrive\Máy tính\wpf\pro-wpf-4.5-in-csharp\Pro WPF 4.5 in C#\Chapter10\Resources\Resources\bin\Debug\Resources.exe
+C:\Users\trang\OneDrive\Máy tính\wpf\pro-wpf-4.5-in-csharp\Pro WPF 4.5 in C#\Chapter10\Resources\Resources\bin\Debug\Resources.pdb
+C:\Users\trang\OneDrive\Máy tính\wpf\pro-wpf-4.5-in-csharp\Pro WPF 4.5 in C#\Chapter10\Resources\Resources\bin\Debug\ResourceLibrary.dll
+C:\Users\trang\OneDrive\Máy tính\wpf\pro-wpf-4.5-in-csharp\Pro WPF 4.5 in C#\Chapter10\Resources\Resources\bin\Debug\ResourceLibrary.pdb
+C:\Users\trang\OneDrive\Máy tính\wpf\pro-wpf-4.5-in-csharp\Pro WPF 4.5 in C#\Chapter10\Resources\Resources\obj\Debug\Resources.csprojResolveAssemblyReference.cache
+C:\Users\trang\OneDrive\Máy tính\wpf\pro-wpf-4.5-in-csharp\Pro WPF 4.5 in C#\Chapter10\Resources\Resources\obj\Debug\ResourceFromLibrary.baml
+C:\Users\trang\OneDrive\Máy tính\wpf\pro-wpf-4.5-in-csharp\Pro WPF 4.5 in C#\Chapter10\Resources\Resources\obj\Debug\TwoResources.baml
+C:\Users\trang\OneDrive\Máy tính\wpf\pro-wpf-4.5-in-csharp\Pro WPF 4.5 in C#\Chapter10\Resources\Resources\obj\Debug\DynamicResource.baml
+C:\Users\trang\OneDrive\Máy tính\wpf\pro-wpf-4.5-in-csharp\Pro WPF 4.5 in C#\Chapter10\Resources\Resources\obj\Debug\Menu.baml
+C:\Users\trang\OneDrive\Máy tính\wpf\pro-wpf-4.5-in-csharp\Pro WPF 4.5 in C#\Chapter10\Resources\Resources\obj\Debug\WindowResource.baml
+C:\Users\trang\OneDrive\Máy tính\wpf\pro-wpf-4.5-in-csharp\Pro WPF 4.5 in C#\Chapter10\Resources\Resources\obj\Debug\ResourceFromLibrary.g.cs
+C:\Users\trang\OneDrive\Máy tính\wpf\pro-wpf-4.5-in-csharp\Pro WPF 4.5 in C#\Chapter10\Resources\Resources\obj\Debug\TwoResources.g.cs
+C:\Users\trang\OneDrive\Máy tính\wpf\pro-wpf-4.5-in-csharp\Pro WPF 4.5 in C#\Chapter10\Resources\Resources\obj\Debug\DynamicResource.g.cs
+C:\Users\trang\OneDrive\Máy tính\wpf\pro-wpf-4.5-in-csharp\Pro WPF 4.5 in C#\Chapter10\Resources\Resources\obj\Debug\Menu.g.cs
+C:\Users\trang\OneDrive\Máy tính\wpf\pro-wpf-4.5-in-csharp\Pro WPF 4.5 in C#\Chapter10\Resources\Resources\obj\Debug\WindowResource.g.cs
+C:\Users\trang\OneDrive\Máy tính\wpf\pro-wpf-4.5-in-csharp\Pro WPF 4.5 in C#\Chapter10\Resources\Resources\obj\Debug\App.g.cs
+C:\Users\trang\OneDrive\Máy tính\wpf\pro-wpf-4.5-in-csharp\Pro WPF 4.5 in C#\Chapter10\Resources\Resources\obj\Debug\Resources_MarkupCompile.cache
+C:\Users\trang\OneDrive\Máy tính\wpf\pro-wpf-4.5-in-csharp\Pro WPF 4.5 in C#\Chapter10\Resources\Resources\obj\Debug\Resources.g.resources
+C:\Users\trang\OneDrive\Máy tính\wpf\pro-wpf-4.5-in-csharp\Pro WPF 4.5 in C#\Chapter10\Resources\Resources\obj\Debug\Resources.Properties.Resources.resources
+C:\Users\trang\OneDrive\Máy tính\wpf\pro-wpf-4.5-in-csharp\Pro WPF 4.5 in C#\Chapter10\Resources\Resources\obj\Debug\Resources.csproj.GenerateResource.cache
+C:\Users\trang\OneDrive\Máy tính\wpf\pro-wpf-4.5-in-csharp\Pro WPF 4.5 in C#\Chapter10\Resources\Resources\obj\Debug\Resources.csproj.CoreCompileInputs.cache
+C:\Users\trang\OneDrive\Máy tính\wpf\pro-wpf-4.5-in-csharp\Pro WPF 4.5 in C#\Chapter10\Resources\Resources\obj\Debug\Resources.csproj.CopyComplete
+C:\Users\trang\OneDrive\Máy tính\wpf\pro-wpf-4.5-in-csharp\Pro WPF 4.5 in C#\Chapter10\Resources\Resources\obj\Debug\Resources.exe
+C:\Users\trang\OneDrive\Máy tính\wpf\pro-wpf-4.5-in-csharp\Pro WPF 4.5 in C#\Chapter10\Resources\Resources\obj\Debug\Resources.pdb

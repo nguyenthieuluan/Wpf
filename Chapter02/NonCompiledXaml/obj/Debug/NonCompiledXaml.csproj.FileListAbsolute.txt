@@ -1,0 +1,12 @@
+D:\Code\Pro WPF\Chapter02\NonCompiledXaml\bin\Debug\NonCompiledXaml.exe.config
+C:\Users\trang\OneDrive\Máy tính\wpf\pro-wpf-4.5-in-csharp\Pro WPF 4.5 in C#\Chapter02\NonCompiledXaml\bin\Debug\Window1.xaml
+C:\Users\trang\OneDrive\Máy tính\wpf\pro-wpf-4.5-in-csharp\Pro WPF 4.5 in C#\Chapter02\NonCompiledXaml\bin\Debug\Xaml2009.xaml
+C:\Users\trang\OneDrive\Máy tính\wpf\pro-wpf-4.5-in-csharp\Pro WPF 4.5 in C#\Chapter02\NonCompiledXaml\bin\Debug\NonCompiledXaml.exe.config
+C:\Users\trang\OneDrive\Máy tính\wpf\pro-wpf-4.5-in-csharp\Pro WPF 4.5 in C#\Chapter02\NonCompiledXaml\bin\Debug\NonCompiledXaml.exe
+C:\Users\trang\OneDrive\Máy tính\wpf\pro-wpf-4.5-in-csharp\Pro WPF 4.5 in C#\Chapter02\NonCompiledXaml\bin\Debug\NonCompiledXaml.pdb
+C:\Users\trang\OneDrive\Máy tính\wpf\pro-wpf-4.5-in-csharp\Pro WPF 4.5 in C#\Chapter02\NonCompiledXaml\obj\Debug\NonCompiledXaml.csprojResolveAssemblyReference.cache
+C:\Users\trang\OneDrive\Máy tính\wpf\pro-wpf-4.5-in-csharp\Pro WPF 4.5 in C#\Chapter02\NonCompiledXaml\obj\Debug\NonCompiledXaml.Properties.Resources.resources
+C:\Users\trang\OneDrive\Máy tính\wpf\pro-wpf-4.5-in-csharp\Pro WPF 4.5 in C#\Chapter02\NonCompiledXaml\obj\Debug\NonCompiledXaml.csproj.GenerateResource.cache
+C:\Users\trang\OneDrive\Máy tính\wpf\pro-wpf-4.5-in-csharp\Pro WPF 4.5 in C#\Chapter02\NonCompiledXaml\obj\Debug\NonCompiledXaml.csproj.CoreCompileInputs.cache
+C:\Users\trang\OneDrive\Máy tính\wpf\pro-wpf-4.5-in-csharp\Pro WPF 4.5 in C#\Chapter02\NonCompiledXaml\obj\Debug\NonCompiledXaml.exe
+C:\Users\trang\OneDrive\Máy tính\wpf\pro-wpf-4.5-in-csharp\Pro WPF 4.5 in C#\Chapter02\NonCompiledXaml\obj\Debug\NonCompiledXaml.pdb

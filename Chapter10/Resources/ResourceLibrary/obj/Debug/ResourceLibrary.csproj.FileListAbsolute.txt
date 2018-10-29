@@ -1,0 +1,13 @@
+C:\Users\trang\OneDrive\Máy tính\wpf\pro-wpf-4.5-in-csharp\Pro WPF 4.5 in C#\Chapter10\Resources\ResourceLibrary\bin\Debug\ResourceLibrary.dll
+C:\Users\trang\OneDrive\Máy tính\wpf\pro-wpf-4.5-in-csharp\Pro WPF 4.5 in C#\Chapter10\Resources\ResourceLibrary\bin\Debug\ResourceLibrary.pdb
+C:\Users\trang\OneDrive\Máy tính\wpf\pro-wpf-4.5-in-csharp\Pro WPF 4.5 in C#\Chapter10\Resources\ResourceLibrary\obj\Debug\ResourceLibrary.csprojResolveAssemblyReference.cache
+C:\Users\trang\OneDrive\Máy tính\wpf\pro-wpf-4.5-in-csharp\Pro WPF 4.5 in C#\Chapter10\Resources\ResourceLibrary\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\trang\OneDrive\Máy tính\wpf\pro-wpf-4.5-in-csharp\Pro WPF 4.5 in C#\Chapter10\Resources\ResourceLibrary\obj\Debug\ResourceLibrary_MarkupCompile.cache
+C:\Users\trang\OneDrive\Máy tính\wpf\pro-wpf-4.5-in-csharp\Pro WPF 4.5 in C#\Chapter10\Resources\ResourceLibrary\obj\Debug\ResourceLibrary_MarkupCompile.lref
+C:\Users\trang\OneDrive\Máy tính\wpf\pro-wpf-4.5-in-csharp\Pro WPF 4.5 in C#\Chapter10\Resources\ResourceLibrary\obj\Debug\Themes\generic.baml
+C:\Users\trang\OneDrive\Máy tính\wpf\pro-wpf-4.5-in-csharp\Pro WPF 4.5 in C#\Chapter10\Resources\ResourceLibrary\obj\Debug\ResourceLibrary.g.resources
+C:\Users\trang\OneDrive\Máy tính\wpf\pro-wpf-4.5-in-csharp\Pro WPF 4.5 in C#\Chapter10\Resources\ResourceLibrary\obj\Debug\ResourceLibrary.Properties.Resources.resources
+C:\Users\trang\OneDrive\Máy tính\wpf\pro-wpf-4.5-in-csharp\Pro WPF 4.5 in C#\Chapter10\Resources\ResourceLibrary\obj\Debug\ResourceLibrary.csproj.GenerateResource.cache
+C:\Users\trang\OneDrive\Máy tính\wpf\pro-wpf-4.5-in-csharp\Pro WPF 4.5 in C#\Chapter10\Resources\ResourceLibrary\obj\Debug\ResourceLibrary.csproj.CoreCompileInputs.cache
+C:\Users\trang\OneDrive\Máy tính\wpf\pro-wpf-4.5-in-csharp\Pro WPF 4.5 in C#\Chapter10\Resources\ResourceLibrary\obj\Debug\ResourceLibrary.dll
+C:\Users\trang\OneDrive\Máy tính\wpf\pro-wpf-4.5-in-csharp\Pro WPF 4.5 in C#\Chapter10\Resources\ResourceLibrary\obj\Debug\ResourceLibrary.pdb

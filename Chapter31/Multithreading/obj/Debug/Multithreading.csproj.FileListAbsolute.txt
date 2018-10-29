@@ -1,0 +1,31 @@
+D:\Code\Pro WPF\Chapter31\Multithreading\bin\Debug\Multithreading.exe.config
+D:\Code\Pro WPF\Chapter31\Multithreading\bin\Debug\Multithreading.exe
+D:\Code\Pro WPF\Chapter31\Multithreading\bin\Debug\Multithreading.pdb
+D:\Code\Pro WPF\Chapter31\Multithreading\obj\Debug\Multithreading.csprojResolveAssemblyReference.cache
+D:\Code\Pro WPF\Chapter31\Multithreading\obj\Debug\BackgroundWorkerTest.baml
+D:\Code\Pro WPF\Chapter31\Multithreading\obj\Debug\Window1.baml
+D:\Code\Pro WPF\Chapter31\Multithreading\obj\Debug\BackgroundWorkerTest.g.cs
+D:\Code\Pro WPF\Chapter31\Multithreading\obj\Debug\Window1.g.cs
+D:\Code\Pro WPF\Chapter31\Multithreading\obj\Debug\App.g.cs
+D:\Code\Pro WPF\Chapter31\Multithreading\obj\Debug\Multithreading_MarkupCompile.cache
+D:\Code\Pro WPF\Chapter31\Multithreading\obj\Debug\Multithreading.g.resources
+D:\Code\Pro WPF\Chapter31\Multithreading\obj\Debug\Multithreading.Properties.Resources.resources
+D:\Code\Pro WPF\Chapter31\Multithreading\obj\Debug\Multithreading.csproj.GenerateResource.Cache
+D:\Code\Pro WPF\Chapter31\Multithreading\obj\Debug\Multithreading.exe
+D:\Code\Pro WPF\Chapter31\Multithreading\obj\Debug\Multithreading.pdb
+C:\Users\trang\OneDrive\Máy tính\wpf\pro-wpf-4.5-in-csharp\Pro WPF 4.5 in C#\Chapter31\Multithreading\bin\Debug\Multithreading.exe.config
+C:\Users\trang\OneDrive\Máy tính\wpf\pro-wpf-4.5-in-csharp\Pro WPF 4.5 in C#\Chapter31\Multithreading\bin\Debug\Multithreading.exe
+C:\Users\trang\OneDrive\Máy tính\wpf\pro-wpf-4.5-in-csharp\Pro WPF 4.5 in C#\Chapter31\Multithreading\bin\Debug\Multithreading.pdb
+C:\Users\trang\OneDrive\Máy tính\wpf\pro-wpf-4.5-in-csharp\Pro WPF 4.5 in C#\Chapter31\Multithreading\obj\Debug\Multithreading.csprojResolveAssemblyReference.cache
+C:\Users\trang\OneDrive\Máy tính\wpf\pro-wpf-4.5-in-csharp\Pro WPF 4.5 in C#\Chapter31\Multithreading\obj\Debug\BackgroundWorkerTest.baml
+C:\Users\trang\OneDrive\Máy tính\wpf\pro-wpf-4.5-in-csharp\Pro WPF 4.5 in C#\Chapter31\Multithreading\obj\Debug\Window1.baml
+C:\Users\trang\OneDrive\Máy tính\wpf\pro-wpf-4.5-in-csharp\Pro WPF 4.5 in C#\Chapter31\Multithreading\obj\Debug\BackgroundWorkerTest.g.cs
+C:\Users\trang\OneDrive\Máy tính\wpf\pro-wpf-4.5-in-csharp\Pro WPF 4.5 in C#\Chapter31\Multithreading\obj\Debug\Window1.g.cs
+C:\Users\trang\OneDrive\Máy tính\wpf\pro-wpf-4.5-in-csharp\Pro WPF 4.5 in C#\Chapter31\Multithreading\obj\Debug\App.g.cs
+C:\Users\trang\OneDrive\Máy tính\wpf\pro-wpf-4.5-in-csharp\Pro WPF 4.5 in C#\Chapter31\Multithreading\obj\Debug\Multithreading_MarkupCompile.cache
+C:\Users\trang\OneDrive\Máy tính\wpf\pro-wpf-4.5-in-csharp\Pro WPF 4.5 in C#\Chapter31\Multithreading\obj\Debug\Multithreading.g.resources
+C:\Users\trang\OneDrive\Máy tính\wpf\pro-wpf-4.5-in-csharp\Pro WPF 4.5 in C#\Chapter31\Multithreading\obj\Debug\Multithreading.Properties.Resources.resources
+C:\Users\trang\OneDrive\Máy tính\wpf\pro-wpf-4.5-in-csharp\Pro WPF 4.5 in C#\Chapter31\Multithreading\obj\Debug\Multithreading.csproj.GenerateResource.cache
+C:\Users\trang\OneDrive\Máy tính\wpf\pro-wpf-4.5-in-csharp\Pro WPF 4.5 in C#\Chapter31\Multithreading\obj\Debug\Multithreading.csproj.CoreCompileInputs.cache
+C:\Users\trang\OneDrive\Máy tính\wpf\pro-wpf-4.5-in-csharp\Pro WPF 4.5 in C#\Chapter31\Multithreading\obj\Debug\Multithreading.exe
+C:\Users\trang\OneDrive\Máy tính\wpf\pro-wpf-4.5-in-csharp\Pro WPF 4.5 in C#\Chapter31\Multithreading\obj\Debug\Multithreading.pdb

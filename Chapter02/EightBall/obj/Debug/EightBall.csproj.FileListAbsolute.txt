@@ -1,0 +1,27 @@
+D:\Code\Pro WPF\Chapter02\EightBall\bin\Debug\EightBall.exe.config
+D:\Code\Pro WPF\Chapter02\EightBall\bin\Debug\EightBall.exe
+D:\Code\Pro WPF\Chapter02\EightBall\bin\Debug\EightBall.pdb
+D:\Code\Pro WPF\Chapter02\EightBall\obj\Debug\EightBall.csprojResolveAssemblyReference.cache
+D:\Code\Pro WPF\Chapter02\EightBall\obj\Debug\Window1.baml
+D:\Code\Pro WPF\Chapter02\EightBall\obj\Debug\Window1.g.cs
+D:\Code\Pro WPF\Chapter02\EightBall\obj\Debug\App.g.cs
+D:\Code\Pro WPF\Chapter02\EightBall\obj\Debug\EightBall_MarkupCompile.cache
+D:\Code\Pro WPF\Chapter02\EightBall\obj\Debug\EightBall.g.resources
+D:\Code\Pro WPF\Chapter02\EightBall\obj\Debug\EightBall.Properties.Resources.resources
+D:\Code\Pro WPF\Chapter02\EightBall\obj\Debug\EightBall.csproj.GenerateResource.Cache
+D:\Code\Pro WPF\Chapter02\EightBall\obj\Debug\EightBall.exe
+D:\Code\Pro WPF\Chapter02\EightBall\obj\Debug\EightBall.pdb
+C:\Users\trang\OneDrive\Máy tính\wpf\pro-wpf-4.5-in-csharp\Pro WPF 4.5 in C#\Chapter02\EightBall\bin\Debug\EightBall.exe.config
+C:\Users\trang\OneDrive\Máy tính\wpf\pro-wpf-4.5-in-csharp\Pro WPF 4.5 in C#\Chapter02\EightBall\bin\Debug\EightBall.exe
+C:\Users\trang\OneDrive\Máy tính\wpf\pro-wpf-4.5-in-csharp\Pro WPF 4.5 in C#\Chapter02\EightBall\bin\Debug\EightBall.pdb
+C:\Users\trang\OneDrive\Máy tính\wpf\pro-wpf-4.5-in-csharp\Pro WPF 4.5 in C#\Chapter02\EightBall\obj\Debug\EightBall.csprojResolveAssemblyReference.cache
+C:\Users\trang\OneDrive\Máy tính\wpf\pro-wpf-4.5-in-csharp\Pro WPF 4.5 in C#\Chapter02\EightBall\obj\Debug\Window1.baml
+C:\Users\trang\OneDrive\Máy tính\wpf\pro-wpf-4.5-in-csharp\Pro WPF 4.5 in C#\Chapter02\EightBall\obj\Debug\Window1.g.cs
+C:\Users\trang\OneDrive\Máy tính\wpf\pro-wpf-4.5-in-csharp\Pro WPF 4.5 in C#\Chapter02\EightBall\obj\Debug\App.g.cs
+C:\Users\trang\OneDrive\Máy tính\wpf\pro-wpf-4.5-in-csharp\Pro WPF 4.5 in C#\Chapter02\EightBall\obj\Debug\EightBall_MarkupCompile.cache
+C:\Users\trang\OneDrive\Máy tính\wpf\pro-wpf-4.5-in-csharp\Pro WPF 4.5 in C#\Chapter02\EightBall\obj\Debug\EightBall.g.resources
+C:\Users\trang\OneDrive\Máy tính\wpf\pro-wpf-4.5-in-csharp\Pro WPF 4.5 in C#\Chapter02\EightBall\obj\Debug\EightBall.Properties.Resources.resources
+C:\Users\trang\OneDrive\Máy tính\wpf\pro-wpf-4.5-in-csharp\Pro WPF 4.5 in C#\Chapter02\EightBall\obj\Debug\EightBall.csproj.GenerateResource.cache
+C:\Users\trang\OneDrive\Máy tính\wpf\pro-wpf-4.5-in-csharp\Pro WPF 4.5 in C#\Chapter02\EightBall\obj\Debug\EightBall.csproj.CoreCompileInputs.cache
+C:\Users\trang\OneDrive\Máy tính\wpf\pro-wpf-4.5-in-csharp\Pro WPF 4.5 in C#\Chapter02\EightBall\obj\Debug\EightBall.exe
+C:\Users\trang\OneDrive\Máy tính\wpf\pro-wpf-4.5-in-csharp\Pro WPF 4.5 in C#\Chapter02\EightBall\obj\Debug\EightBall.pdb
